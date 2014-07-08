@@ -1,7 +1,7 @@
 PHP-Registration-Panel
 ======================
 
-This repo for registration panel screen and save information about saved user.
+This repo is registration panel screen and save information about saved user.
 
 We will use sqlite database to store information on registrated user.
 
